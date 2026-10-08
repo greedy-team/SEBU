@@ -2,6 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b867dc09-6de2-4ac4-b5b0-c14b759b2797" alt="SEBU" width="480" />
 
   <h1>SEBU</h1>
+  <p><a href="https://github.com/greedy-team/SEBU/releases/tag/v1.0.0"><img src="./version.svg" alt="SEBU version v1.0.0" width="112" height="24" /></a></p>
   <p><strong>세종대학교 학부연구생을 위한 연구실 탐색 플랫폼</strong></p>
   <p>나에게 맞는 연구실을 찾는 첫걸음, SEBU와 함께하세요.</p>
 
