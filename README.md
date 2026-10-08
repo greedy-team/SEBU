@@ -14,45 +14,33 @@
 
 ---
 
-🔹
-
-## SEBU를 소개해요
+## 🔹 SEBU를 소개해요
 
 학부연구생을 시작하고 싶지만, 어떤 연구실이 나와 맞을지 고민되시나요?
 
 **SEBU는 세종대학교 학생들이 연구실을 탐색하고, 연구실 후기를 살펴볼 수 있는 학부연구생 플랫폼입니다.** 관심 분야부터 교수님, 연구실 정보까지 한곳에서 찾아보세요.
 
-🔹
+## 🔹 주요 기능
 
-## 주요 기능
-
-🔹
-
-### 01. 관심 있는 연구실 검색하기
+### 🔹 01. 관심 있는 연구실 검색하기
 
 관심 분야, 교수님 이름, 연구실 이름으로 연구실을 찾아보세요. 학부연구생으로서의 첫걸음을 내딛기 위한 탐색을 시작할 수 있어요.
 
 [연구실 탐색하기 →](https://sebu-frontend.vercel.app/search)
 
-🔹
-
-### 02. 단과대학별로 둘러보기
+### 🔹 02. 단과대학별로 둘러보기
 
 세종대학교의 단과대학과 학과별로 연구실을 둘러보세요. 전공에 맞는 연구실부터 새로운 관심 분야까지 차근차근 살펴볼 수 있어요.
 
 [단과대별 보기 →](https://sebu-frontend.vercel.app/colleges)
 
-🔹
-
-### 03. 연구실 후기 살펴보기
+### 🔹 03. 연구실 후기 살펴보기
 
 연구실을 선택하기 전, 다른 학생들이 남긴 후기를 확인해보세요. 연구실 탐색과 함께 실제 경험을 참고할 수 있어요.
 
 [랩실 후기 보기 →](https://sebu-frontend.vercel.app/community/labs)
 
-🔹
-
-## Frontend
+## 🔹 Frontend
 
 **[SEBU-frontend](https://github.com/greedy-team/SEBU-frontend)**
 
@@ -67,9 +55,7 @@ SEBU 웹 서비스의 프론트엔드 소스 코드를 관리하는 저장소입
   <p><a href="mailto:sebusupport@gmail.com">서비스 문의</a> · <a href="https://sebu-frontend.vercel.app">SEBU 방문하기</a></p>
 </div>
 
-🔹
-
-## People
+## 🔹 People
 
 SEBU를 함께 만드는 사람들입니다.
 
