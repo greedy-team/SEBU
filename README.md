@@ -23,12 +23,12 @@
 
 https://github.com/user-attachments/assets/3e7b57b7-2077-4cb5-b39e-b6412cea9c35
 
-[영상 새 창에서 보기](https://github.com/user-attachments/assets/3e7b57b7-2077-4cb5-b39e-b6412cea9c35) · [MP4 다운로드 및 Release](https://github.com/greedy-team/SEBU/releases/tag/v1.0.0)
+[MP4 다운로드 및 Release](https://github.com/greedy-team/SEBU/releases/tag/v1.0.0)
 
 <details>
 <summary>영상 미리보기 이미지</summary>
 
-[![SEBU v1.0.0 서비스 시연 영상 보기](./sebu-demo-preview.webp)](https://github.com/user-attachments/assets/3e7b57b7-2077-4cb5-b39e-b6412cea9c35)
+[![SEBU v1.0.0 서비스 시연 영상 보기](./sebu-demo-preview.webp)](https://github.com/greedy-team/SEBU/releases/tag/v1.0.0)
 
 </details>
 
