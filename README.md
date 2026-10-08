@@ -15,6 +15,23 @@
 
 ---
 
+## 서비스 시연 영상
+
+**SEBU v1.0.0 · 약 35초 · 한국어 자막 · 무음**
+
+실제 서비스 화면으로 연구실 검색 → 단과대학 탐색 → 후기 확인 흐름을 소개합니다.
+
+https://github.com/user-attachments/assets/3e7b57b7-2077-4cb5-b39e-b6412cea9c35
+
+[영상 새 창에서 보기](https://github.com/user-attachments/assets/3e7b57b7-2077-4cb5-b39e-b6412cea9c35) · [MP4 다운로드 및 Release](https://github.com/greedy-team/SEBU/releases/tag/v1.0.0)
+
+<details>
+<summary>영상 미리보기 이미지</summary>
+
+[![SEBU v1.0.0 서비스 시연 영상 보기](./sebu-demo-preview.webp)](https://github.com/user-attachments/assets/3e7b57b7-2077-4cb5-b39e-b6412cea9c35)
+
+</details>
+
 ## 🔹 SEBU를 소개해요
 
 ![SEBU 메인 화면](./sebu-home.webp)
