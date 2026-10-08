@@ -54,3 +54,17 @@ SEBU 웹 서비스의 프론트엔드 소스 코드를 관리하는 저장소입
   <p><strong>SEBU · 세종대학교 학부연구생 플랫폼</strong></p>
   <p><a href="mailto:sebusupport@gmail.com">서비스 문의</a> · <a href="https://sebu-frontend.vercel.app">SEBU 방문하기</a></p>
 </div>
+
+## People
+
+SEBU를 함께 만드는 사람들입니다.
+
+<table>
+  <tr>
+    <td align="center" width="140"><a href="https://github.com/rahwan10"><img src="https://avatars.githubusercontent.com/u/80613664?s=200&v=4" width="90" height="90" alt="rahwan10" /><br /><strong>rahwan10</strong></a></td>
+    <td align="center" width="140"><a href="https://github.com/kokunut"><img src="https://avatars.githubusercontent.com/u/231170298?s=200&v=4" width="90" height="90" alt="kokunut" /><br /><strong>kokunut</strong></a></td>
+    <td align="center" width="140"><a href="https://github.com/hapdaypy"><img src="https://avatars.githubusercontent.com/u/104197601?s=200&v=4" width="90" height="90" alt="hapdaypy" /><br /><strong>hapdaypy</strong></a></td>
+    <td align="center" width="140"><a href="https://github.com/chaehyunL"><img src="https://avatars.githubusercontent.com/u/266597799?v=4" width="90" height="90" alt="chaehyunL" /><br /><strong>chaehyunL</strong></a></td>
+    <td align="center" width="140"><a href="https://github.com/Kdahyn"><img src="https://avatars.githubusercontent.com/u/262711966?v=4" width="90" height="90" alt="Kdahyn" /><br /><strong>Kdahyn</strong></a></td>
+  </tr>
+</table>
